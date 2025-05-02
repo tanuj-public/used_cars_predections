@@ -35,7 +35,6 @@ The analysis follows a typical data science workflow:
 * `vehicles.csv`: The dataset used for the analysis.
 * `[Jupyter Notebook or Python script]`: The code used for the analysis (replace this with the actual name of your notebook or script).
 * `README.txt`: This file.
-* `[report.txt or report.pdf]`: The report summarizing the findings (if you have a separate report file).
 
 ## How to Use
 
